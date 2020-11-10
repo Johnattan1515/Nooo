@@ -1,1 +1,206 @@
 
+#EXTM3U
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1
+http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2
+http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN
+http://internetowa.tv/?c=hlsPlay&channel=tvn&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVN7.pl" group-title="Channels",TVN 7
+http://internetowa.tv/?c=hlsPlay&channel=tvn7&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",Polsat
+http://internetowa.tv/?c=hlsPlay&channel=polsat&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TV4.pl" group-title="Channels",TV 4
+http://internetowa.tv/?c=hlsPlay&channel=tv4&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",Polsat 2
+http://internetowa.tv/?c=hlsPlay&channel=polsat2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPuls.pl" group-title="Channels",TV Puls
+http://internetowa.tv/?c=hlsPlay&channel=tvpuls&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPolonia.pl" group-title="Channels",TVP Polonia
+http://internetowa.tv/?c=hlsPlay&channel=tvppolonia&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="tv6-lt" group-title="Channels",TV 6
+http://internetowa.tv/?c=hlsPlay&channel=tv6&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TTV.PL" group-title="Channels",TTV
+http://internetowa.tv/?c=hlsPlay&channel=ttv&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="Channels",Puls 2
+http://internetowa.tv/?c=hlsPlay&channel=tvpuls2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="Channels",TVP Info
+http://internetowa.tv/?c=hlsPlay&channel=tvpinfo&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVN24.pl" group-title="Channels",TVN 24
+http://internetowa.tv/?c=hlsPlay&channel=tvn24&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVNCNBCBiznes.pl" group-title="Channels",TVN 24 BiS
+http://internetowa.tv/?c=hlsPlay&channel=tvn24bis&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="Channels",Polsat News
+http://internetowa.tv/?c=hlsPlay&channel=polsatnews&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Republika TV
+http://internetowa.tv/?c=hlsPlay&channel=tvrepublika&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="Channels",Canal+
+http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",Canal+ Film
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",Canal+ Family
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
+http://internetowa.tv/?c=hlsPlay&channel=hbo&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
+http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="HBOComedy.cz" group-title="Channels",HBO 3
+http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVNFabula.pl" group-title="Channels",TVN Fabuła
+http://internetowa.tv/?c=hlsPlay&channel=tvnfabula&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://internetowa.tv/?c=hlsPlay&channel=axn&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="Channels",13 Ulica
+http://internetowa.tv/?c=hlsPlay&channel=13ulica&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",Polsat Film
+http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="KinoPolska.pl" group-title="Channels",Kino Polska
+http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="Channels",Polsat Cafe
+http://internetowa.tv/?c=hlsPlay&channel=polsatcafe&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="Channels",Polsat Play
+http://internetowa.tv/?c=hlsPlay&channel=polsatplay&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="Channels",TVP Seriale
+http://internetowa.tv/?c=hlsPlay&channel=tvpseriale&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",Cinemax
+http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="Cinemax2.ro" group-title="Channels",Cinemax 2
+http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
+http://internetowa.tv/?c=hlsPlay&channel=fox&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="Channels",Canal+ Seriale
+http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central
+http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime+Investigation Polsat
+http://internetowa.tv/?c=hlsPlay&channel=cipolsat&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="Channels",TVP Rozrywka
+http://internetowa.tv/?c=hlsPlay&channel=tvprozrywka&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",FOX Comedy
+http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="kino-tv" group-title="Channels",Kino TV
+http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="Channels",Filmbox Action
+http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="FilmboxFamily.cz" group-title="Channels",Filmbox Family
+http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" group-title="Channels",Kuchnia+
+http://internetowa.tv/?c=hlsPlay&channel=kuchniaplus&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="StopklatkaTV.pl" group-title="Channels",Stopklatka TV
+http://internetowa.tv/?c=hlsPlay&channel=stopklatkatv&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="AleKino.pl" group-title="Channels",Ale Kino+
+http://internetowa.tv/?c=hlsPlay&channel=alekinoplus&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SCI FI
+http://internetowa.tv/?c=hlsPlay&channel=scifi&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
+http://internetowa.tv/?c=hlsPlay&channel=tnt&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",Canal+ Sport
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal+ Sport 2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
+http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="esp2-int" group-title="Channels",Eurosport 2
+http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="Channels",Polsat Sport
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP Sport
+http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="nsport.pl" group-title="Channels",nSport+
+http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",Eleven Sports 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Channels",Polsat Sport Extra
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Channels",Polsat Sport Premium 1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="Channels",Polsat Sport Premium 2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportPpv3.pl" group-title="Channels",Polsat Sport Premium 3
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium3&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportPpv4.pl" group-title="Channels",Polsat Sport Premium 4
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium4&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="Channels",Polsat Sport Fight
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="Channels",Polsat Sport News
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports Channel
+http://internetowa.tv/?c=hlsPlay&channel=extremesports&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportPpv5.pl" group-title="Channels",Polsat Sport Premium 5
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium5&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatSportPpv6.pl" group-title="Channels",Polsat Sport Premium 6
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium6&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://internetowa.tv/?c=hlsPlay&channel=tlc&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://internetowa.tv/?c=hlsPlay&channel=discovery&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
+http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",National Geographic Wild
+http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN Style
+http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN Turbo
+http://internetowa.tv/?c=hlsPlay&channel=tvnturbo&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="Channels",TVP Historia
+http://internetowa.tv/?c=hlsPlay&channel=tvphistoria&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="FokusTV.pl" group-title="Channels",Fokus TV
+http://internetowa.tv/?c=hlsPlay&channel=fokustv&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History
+http://internetowa.tv/?c=hlsPlay&channel=history&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="CanalplusDiscovery.pl" group-title="Channels",Canal+ Discovery
+http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PolsatDoku.pl" group-title="Channels",Polsat Doku
+http://internetowa.tv/?c=hlsPlay&channel=polsatdoku&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ViasatExplorer.pl" group-title="Channels",Polsat Viasat Explore
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ViasatHistory.pl" group-title="Channels",Polsat Viasat History
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasathistory&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ViasatNature.pl" group-title="Channels",Polsat Viasat Nature
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="NatGeoPeople.in" group-title="Channels",Nat Geo People
+http://internetowa.tv/?c=hlsPlay&channel=natgeopeople&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="Channels",Planete+
+http://internetowa.tv/?c=hlsPlay&channel=planeteplus&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="MINIMINI.pl" group-title="Channels",Minimini+
+http://internetowa.tv/?c=hlsPlay&channel=miniminiplus&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="Channels",TVP ABC
+http://internetowa.tv/?c=hlsPlay&channel=tvpabc&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior
+http://internetowa.tv/?c=hlsPlay&channel=disneyjunior&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://internetowa.tv/?c=hlsPlay&channel=mtvpolska&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antyradio
+http://internetowa.tv/?c=hlsPlay&channel=antyradio&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polskie Radio Program 1
+http://internetowa.tv/?c=hlsPlay&channel=jedynkapolskieradio&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polskie Radio Program 2
+http://internetowa.tv/?c=hlsPlay&channel=dwojkapolskieradio&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polskie Radio Program 3
+http://internetowa.tv/?c=hlsPlay&channel=trojkapolskieradio&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Zet
+http://internetowa.tv/?c=hlsPlay&channel=radiozet&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMF FM
+http://internetowa.tv/?c=hlsPlay&channel=rmffm&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMF Maxxx
+http://internetowa.tv/?c=hlsPlay&channel=rmfmaxxx&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMF Classic
+http://internetowa.tv/?c=hlsPlay&channel=rmfclassic&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="Channels",ESKA TV
+http://internetowa.tv/?c=hlsPlay&channel=eskatv&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="PoloTV.pl" group-title="Channels",Polo TV
+http://internetowa.tv/?c=hlsPlay&channel=polotv&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" group-title="Channels",Disco Polo Music
+http://internetowa.tv/?c=hlsPlay&channel=discopolomusic&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
